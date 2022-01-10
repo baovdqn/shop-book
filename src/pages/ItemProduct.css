@@ -1,0 +1,12 @@
+.ItemProduct{
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.ItemProduct-description{
+    margin: auto 15px;
+}
+
+.ItemProduct img{
+    width: 100%;
+}

@@ -1,0 +1,38 @@
+.card-body .card-title{
+    font-size: 15px;
+    height: 45px;
+}
+
+.card-body .card-subtitle span{
+    color: #ff501b;
+    font-size: 14px;
+}
+
+.card-body button{
+    padding: 5px 10px;
+    font-size: 14px;
+    width: 110px;
+}
+
+.card-body .button-product{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-product .button-product img{
+    height: 14px;
+    width: 14px;
+}
+
+.card-product .button-product button:last-child{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-product .button-product svg{
+    margin-top: 4px;
+}
+
+.card-product .button-product a:hover{
+    text-decoration: none;
+}

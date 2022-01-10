@@ -1,0 +1,11 @@
+table tr td{
+    text-align: center;
+}
+
+.table td, .table th{
+    vertical-align: center;
+}
+
+.table tr:last-child td:first-child{
+    text-align: end;
+}
